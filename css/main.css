@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Advent+Pro:400,500,700);
+@import url(https://fonts.googleapis.com/css?family=Pontano+Sans);
+
+.container {
+	text-align: center;
+	height: 250px;
+	margin-left: 50px;
+	color: #6B6B6B;
+	font-family: 'Advent Pro', sans-serif;
+	padding-top: 50px;
+}
+
+.container div {
+	background-color: #F5F5F5;
+	margin-top: 40px;
+	margin-left: 5px;
+	padding: 20px 10px;
+	float: left;
+	width: 220px;
+	height: 100%;
+}
+
+.container div:hover {
+	height: 300px;
+	width: 240px;
+	color: #AABBDB;
+	transition: 1s;
+	background-color: #FFF;
+	font-size: 18px;
+}
+
+h3 {
+	font-weight: 700;
+}
+
+.cursiva {
+	font-weight: 400;
+	font-style: italic;
+}
+
+p {
+	font-family: 'Pontano Sans', sans-serif;
+}
+
+
